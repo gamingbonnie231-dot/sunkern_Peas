@@ -1,0 +1,5 @@
+// Microsoft Visual C++ generated resource script.
+//
+#define IDI_MAIN_ICON 103
+
+IDI_MAIN_ICON ICON "main_icon.ico"
